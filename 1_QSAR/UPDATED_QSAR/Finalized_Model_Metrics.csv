@@ -1,0 +1,11 @@
+Metric,Value
+ROC-AUC,0.8840
+MCC,0.6405
+F1-Score,0.8166
+Sensitivity (TPR),0.7867
+Specificity (TNR),0.8531
+Precision,0.8489
+True Positives,118
+True Negatives,122
+False Positives,21
+False Negatives,32
